@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "stripe-checkout"
+    }
+  },
+  "defaultProject": "stripe-checkout",
+  "cli": {
+    "analytics": false
+  }
 }
